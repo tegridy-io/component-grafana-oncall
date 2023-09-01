@@ -1,0 +1,5 @@
+= Grafana OnCall
+
+grafana-oncall is a Commodore component to manage Grafana OnCall.
+
+See the xref:references/parameters.adoc[parameters] reference for further details.

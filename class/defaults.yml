@@ -1,0 +1,4 @@
+parameters:
+  grafana_oncall:
+    =_metadata: {}
+    namespace: syn-grafana-oncall
